@@ -2,6 +2,10 @@
 
 * [Project 89 Agents Guide](README.md)
 
+## Strategy
+
+* [AI Leader Protocol](strategy/ai-leader-protocol.md)
+
 ## Agent Guide
 
 * [Table of Contents](agent-guide/table-of-contents.md)
