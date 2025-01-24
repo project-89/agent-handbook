@@ -5,6 +5,7 @@
 ## Strategy
 
 * [AI Leader Protocol](strategy/ai-leader-protocol.md)
+* [NFT Protocol](strategy/nft-protocol.md)
 
 ## Agent Guide
 
